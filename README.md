@@ -231,6 +231,3 @@ Want me to:
     
 
 Pick one and I’ll drop it in Markdown form ready to paste.
-
-1. Use a local text-to-speech tool to have your laptop randomly announce silly messages (“Your coffee is conspiring against you!”) at scheduled times.
-2. 
