@@ -1,2 +1,2 @@
-# Prank-in-Prophecy-pip-
+# Prank-in-Prophecy
 Ideas to prank unlocked laptops
